@@ -1,7 +1,6 @@
-
 ## 使い方
 
-  $ git clone http://github.com/knfujii/dotfiles.git ~/dotfiles 
+  $ git clone https://github.com/knfujii/dotfiles.git ~/dotfiles 
 
   $ cd ~/dotfiles 
 
