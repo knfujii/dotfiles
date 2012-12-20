@@ -11,3 +11,5 @@
 	ci = commit -a
 	di = diff
 	br = branch
+[push]
+	default = current
