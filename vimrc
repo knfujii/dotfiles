@@ -13,6 +13,8 @@ Bundle 'Shougo/neocomplcache'
 Bundle 'Shougo/unite.vim'
 Bundle 'thinca/vim-ref'
 Bundle 'thinca/vim-quickrun'
+Bundle 'scrooloose/nerdtree'
+
 filetype plugin indent on
 
 	" Disable AutoComplPop.
