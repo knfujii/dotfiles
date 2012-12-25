@@ -6,4 +6,4 @@ alias r='rails'
 # bundle
 alias b='bundle'
 alias be='bundle exec'
-
+alias bu='bundle update'
