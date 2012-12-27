@@ -9,11 +9,29 @@ else
   call vundle#rc()
 endif
 
+Bundle 'tpope/vim-fugitive'
+Bundle 'tpope/vim-haml'
+Bundle 'tpope/vim-surround'
+Bundle 'tpope/vim-endwise'
+Bundle 'tpope/vim-rails'
+Bundle 'scrooloose/nerdtree'
+Bundle 'scrooloose/nerdcommenter'
 Bundle 'Shougo/neocomplcache'
 Bundle 'Shougo/unite.vim'
-Bundle 'thinca/vim-ref'
+Bundle 'csexton/rvm.vim'
+Bundle 'altercation/vim-colors-solarized'
+Bundle 'cucumber/cucumber'
+Bundle 'kchmck/vim-coffee-script'
 Bundle 'thinca/vim-quickrun'
-Bundle 'scrooloose/nerdtree'
+Bundle 'thinca/vim-ref'
+Bundle 'tomasr/molokai'
+Bundle 'Shougo/vimshell'
+Bundle 'Shougo/vimproc'
+Bundle 'leshill/vim-json'
+Bundle 'mattn/zencoding-vim'
+Bundle 'gmarik/snipmate.vim'
+Bundle 'pix/vim-align'
+Bundle 'tomtom/tcomment_vim'
 
 filetype plugin indent on
 
