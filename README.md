@@ -4,5 +4,4 @@
 
   $ cd ~/dotfiles 
 
-  $ bash symlink.sh 
-
+  $ ./install.sh
