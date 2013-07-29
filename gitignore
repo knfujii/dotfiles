@@ -1,1 +1,5 @@
-/gems
+.idea/
+.ruby-version
+coverage/
+log/
+tmp/
