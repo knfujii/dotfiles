@@ -1,6 +1,3 @@
-[user]
-	name = knfujii
-	email = fujiikuninori@facebook.com
 [credential]
 	helper = cache --timeout=3600
 [color]
