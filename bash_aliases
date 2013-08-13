@@ -1,7 +1,8 @@
 ### bash Alias
 
 # rails
-alias r='rails'
+alias r='spring rails'
+alias ra='spring rake'
 
 # bundle
 alias b='bundle'
