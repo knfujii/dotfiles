@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOT_FILES=( vimrc gemrc gitconfig gitignore bash_aliases bash_adding )
+DOT_FILES=(vimrc gemrc gitconfig gitignore bash_aliases bash_adding inputrc)
 
 for file in ${DOT_FILES[@]}
 do

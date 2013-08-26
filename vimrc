@@ -122,7 +122,7 @@ set notitle " タイトルを表示させない
 set ruler " ルーラーを表示
 set laststatus=2 " 常にステータラスラインを表示
 set showmatch " 対応する括弧をハイライト
-set number " 行番号表示
+set nonumber " 行番号非表示
 set list " 不可視文字表示
 set listchars=tab:>\ ,extends:<
 " 全角スペースの表示
